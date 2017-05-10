@@ -2,7 +2,8 @@ package NumberSystems;
 
 /**
  * This program convert the same integer from any one of the 4 main systems
- * (Binary,Octal,Decimal and Hexadecimal) to any one of these systems .
+ * (Binary,Octal,Decimal and Hexadecimal) to any one of these systems
+ * and mathematical operations (addition, subtraction, multiplication, division). 
  * @author Eyad AL-‘Amawi
  */
 public class NumeralSystems {
