@@ -6,6 +6,7 @@ package NumberSystems;
  * and mathematical operations (addition, subtraction, multiplication, division). 
  *
  * @author Eyad AL-‘Amawi
+ * @author Mahmoud AL-Shikh-Khalil
  */
 public class NumeralSystems {
 
