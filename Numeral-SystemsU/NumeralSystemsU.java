@@ -1,6 +1,4 @@
-package javaapplication4;
 
-import java.util.Scanner;
 /**
  * This program convert the same integer that user enter it from any one of the 4 main systems
  * ( Binary,Octal,Decimal and Hexadecimal) to any one of these systems .
@@ -11,6 +9,9 @@ import java.util.Scanner;
  */
 
 // Code Start 
+
+import java.util.Scanner;
+
 public class NumeralSystemsU {
 
     Scanner input = new Scanner(System.in);
